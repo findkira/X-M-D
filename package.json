@@ -1,0 +1,13 @@
+{
+  "name": "x-m-d-wa-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Multi-Device Bot without built-in auth",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0"
+  }
+}
